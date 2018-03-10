@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Usage: km.py <numberOfClusters> <inputFile> <outputFile>
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Aim-Using euclidean distance, apply K-Means Algorithm to form cluster based on k provided. Sum of Square distance was used as error metric. 
+
+Run Results:
+The run-results of the k-means algorithm is as follows:
+Sl no	K	SSE
+1	8	0.891
+2	5	1.497
+3	45	0.0657
+4	15	0.4996
+5	25	0.2445
